@@ -1,6 +1,4 @@
-## Hey There Stranger 👋
-
-
+# Hey There Stranger 👋 ![](https://komarev.com/ghpvc/?username=mtkhawaja)
 
 ## 👨‍💻 Languages 
 
@@ -52,3 +50,4 @@
 * [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra).
 * [markdown-badges](https://github.com/Ileriayo/markdown-badges#how-to-use)
 * [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+* [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
